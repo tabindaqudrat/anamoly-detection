@@ -1,4 +1,4 @@
-# anamoly-detection
+# Anamoly-Detection
 This repository contains a Jupyter notebook for performing anomaly detection using various machine learning techniques. The notebook is designed to help users identify unusual patterns in their data, which could indicate errors, rare events, or other significant occurrences.
 
 ## Table of Contents
@@ -19,13 +19,13 @@ Anomaly detection is a crucial aspect of data analysis that helps in identifying
 
 ## Usage
 -Clone the repository:
-git clone https://github.com/yourusername/anomaly-detection.git
+-git clone https://github.com/yourusername/anomaly-detection.git
 -Navigate to the project directory:
-cd anomaly-detection
+-cd anomaly-detection
 -Open the notebook
-jupyter notebook Anamoly_Detection.ipynb
+-jupyter notebook Anamoly_Detection.ipynb
 
-##Contributing
+## Contributing
 We welcome contributions to enhance the functionality and performance of this project. To contribute, please follow these steps:
 
 -Fork the repository.
